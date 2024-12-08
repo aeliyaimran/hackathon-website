@@ -1,7 +1,7 @@
 import React from "react";
 import CarCard from "../ui/CarCard";
 
-const CarSection = ({ title, cars }: any) => {
+const CarSection = ({ title, cars }:any) => {
   return (
     <div className="mb-8">
       <div className="flex justify-between items-center mb-4">
